@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
+  font-family: Georgia, serif;
 }
 
 *, *::before, *::after {
@@ -21,14 +22,23 @@ h1 {
   font-size: 3rem;
 }
 
+body {
+  margin: .3em;
+}
+
+img {
+  display: block;
+  width: auto;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   text-align: center;
 }
+
 nav li {
-  font-style: Georgia, Serif;
   display: inline-block;
   background-color: #b2a212;
   color: #fff;
