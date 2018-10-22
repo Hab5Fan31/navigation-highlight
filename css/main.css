@@ -23,7 +23,7 @@ h1 {
 }
 
 body {
-  margin: .3em;
+  margin: 0;
 }
 
 img {
@@ -49,6 +49,7 @@ nav li {
 }
 
 nav a {
+  display: inline-block;
   text-decoration: none;
   color: #fff;
   border-radius: 4px;
@@ -71,6 +72,7 @@ a:hover {
 strong b {
   color: #2f2d13;
 }
+
 h2 {
   font-family: "Sigmar one", sans-serif;
   color: #cc1465;
