@@ -50,6 +50,10 @@ nav li:hover {
   background-color: #cc1465;
 }
 
+a:hover {
+  background-color: #cc1465;
+}
+
 .current {
   background-color: #cc1465;
 }
