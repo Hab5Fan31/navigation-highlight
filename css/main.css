@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: Georgia, serif;
+  background-color: #fff;
 }
 
 *, *::before, *::after {
@@ -28,7 +29,7 @@ body {
 
 img {
   display: block;
-  width: auto;
+  width: 100%;
 }
 
 nav ul {
@@ -54,7 +55,7 @@ nav a {
   color: #fff;
   border-radius: 4px;
   font-size: 1.125rem;
-  padding: .3em .6em .4em;
+  padding: .2em .5em .3em;
 }
 
 nav li:hover {
@@ -69,13 +70,13 @@ a:hover {
   background-color: #b20953;
 }
 
-strong b {
+strong, b {
   color: #2f2d13;
 }
 
 h2 {
   font-family: "Sigmar one", sans-serif;
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
 }
 
