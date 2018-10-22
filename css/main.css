@@ -58,6 +58,9 @@ a:hover {
   background-color: #b20953;
 }
 
+strong b {
+  color: #2f2d13;
+}
 h2 {
   font-family: "Sigmar one", sans-serif;
   color: #cc1465;
